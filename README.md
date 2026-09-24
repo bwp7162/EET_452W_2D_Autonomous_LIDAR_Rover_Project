@@ -5,3 +5,4 @@ The main files of the project are uploaded here in this repo for viewing purpose
 All the .xacro files are description files used to model the robot in RVIZ, and all of the .launch files are used to launch robot state publisher, the rplidar scanning driver, and the hectorslam algorithm.
 The config files contain the hector mapping algorithm, the SLAM mapping parameters file, and the robot state publisher for the LIDAR sensor.  
 
+Since the pdf file is too big, here's the link for the report on google docs: https://docs.google.com/document/d/18bai_MD7xxxjAYBLyW6swYKWA5lxrcqCTf9AZfBjbhk/edit?usp=sharing
